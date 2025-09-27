@@ -1,4 +1,4 @@
-# 🛡️ cPanel & WHM Professional Exam — Study Repository
+# 🛡️ cPanel & WHM Professional Exam 
 
 ![Course](https://img.shields.io/badge/cPanel-Professional%20Exam-darkred?style=flat-square&logo=cpanel)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)
