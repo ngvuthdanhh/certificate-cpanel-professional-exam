@@ -69,7 +69,8 @@ Core documentation for planning and revision:
 ---
 
 ## 📜 Certificate
-🎓 ![cPanel Professional Certificate](./cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png)
+🎓 [cPanel & WHM Professional Certification — Nguyen-Vu Thanh Danh](./cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png)
+
 
 ---
 
