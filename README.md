@@ -1,4 +1,4 @@
-# 🛡️ cPanel & WHM Professional Exam 
+# 🛡️ cPanel Professional Exam (CPP)
 
 ![Course](https://img.shields.io/badge/cPanel-Professional%20Exam-darkred?style=flat-square&logo=cpanel)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)
@@ -69,7 +69,7 @@ Core documentation for planning and revision:
 ---
 
 ## 📜 Certificate
-🎓 [cPanel & WHM Professional Certification](./cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png)
+🎓 [cPanel Professional (CPP) Certification](./cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png)
 
 
 ---
