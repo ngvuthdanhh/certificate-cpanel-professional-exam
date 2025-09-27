@@ -69,8 +69,7 @@ Core documentation for planning and revision:
 ---
 
 ## 📜 Certificate
-🎓 `cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png`  
-(Stored here as proof of completion and for portfolio use.)
+🎓 ![cPanel Professional Certificate](./cert/Nguyen-Vu_Thanh-Danh_cPanel-Professional-Certification-Exam.png)
 
 ---
 
